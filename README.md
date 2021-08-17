@@ -4,10 +4,10 @@ A step towards Data Science and Machine Learning
 Contains the code and implementation of the following topics and techniques:
 ### 01 Data Preprocessing
 
-1 Importing the dataset
-2 Dealing with missing data
-3 Splitting the data into test set and training set
-4 Feature Scalling
+1. Importing the dataset
+2. Dealing with missing data
+3. Splitting the data into test set and training set
+4. Feature Scalling
 
 ### 02 Regression
 
